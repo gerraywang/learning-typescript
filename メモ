@@ -1,0 +1,7 @@
+## バージョン管理
+git init
+git remote add origin XXX
+git checkout develop
+git pull
+git branch feature/xxx
+
